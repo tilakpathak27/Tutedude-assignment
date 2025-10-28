@@ -1,4 +1,4 @@
-# Task=1
+# Task-1
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
 add=a+b
@@ -12,4 +12,7 @@ print("Division:",div)
 
 
 
-# task2
+# task-2
+a=input("Enter the first name:")
+b=input("Enter the second name:")
+print("Hello,",a,b,"! Welcome to the python program.")
